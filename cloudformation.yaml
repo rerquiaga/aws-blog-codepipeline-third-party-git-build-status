@@ -163,8 +163,6 @@ Resources:
 
       Code:
         ZipFile: |
-          from __future__ import print_function
-
           import json
           import boto3
           import os
